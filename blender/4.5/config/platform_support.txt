@@ -1,0 +1,1 @@
+{Intel/Mesa Intel(R) Iris(R) Xe Graphics (TGL GT2)/4.6 (Core Profile) Mesa 25.2.6-arch1.1}=SUPPORTED
